@@ -1,0 +1,11 @@
+{
+  "org": "sympy",
+  "repo": "sphinx-math-dollar",
+  "versions": [
+    {
+      "commit": "7739ecb1ee78a402f867c2adf5ea59ccfe5b86a8",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:16:06.798392+00:00"
+    }
+  ]
+}
