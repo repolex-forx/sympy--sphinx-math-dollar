@@ -1,0 +1,48 @@
+{
+  "manifest_version": "1.0",
+  "org": "sympy",
+  "repo": "sphinx-math-dollar",
+  "versions": [
+    {
+      "commit": "7739ecb1ee78a402f867c2adf5ea59ccfe5b86a8",
+      "parsed_at": "2026-10-21T20:14:05.664087+00:00",
+      "filetree": "filetree/7739ecb1ee78a402f867c2adf5ea59ccfe5b86a8.nq.gz",
+      "blobs": [
+        "blob/565b0521d0c2cdbfe493d19765b04d5c119fa7eb.nq.gz",
+        "blob/a0cf84a0e32d91a553b0d4361e5ef5668fbae4d0.nq.gz",
+        "blob/2d0fb6874828758b35ed686070f3960c977a712f.nq.gz",
+        "blob/39648b7f0e70720ef17aca8e464b6f961e6fe92f.nq.gz",
+        "blob/8a1e62e5224079bce9363667849797f044e617ec.nq.gz",
+        "blob/2119f51099bf37e4fdb6071dce9f451ea44c62dd.nq.gz",
+        "blob/655d6f98c3200c07f426a028581434cd2bf8227e.nq.gz",
+        "blob/4b5816a354e04ba258dd46ce164b2a9fb225ce09.nq.gz",
+        "blob/1159e8544080811a0399632238feaf476e86a78e.nq.gz",
+        "blob/386aec157f5a78489211db5541a1b5006a4da681.nq.gz",
+        "blob/69c3b2b630b5571e0ce965c7485456a809253316.nq.gz",
+        "blob/d4bb2cbb9eddb1bb1b4f366623044af8e4830919.nq.gz",
+        "blob/bba984899017d2496b32384cba488251246d9dd6.nq.gz",
+        "blob/8f32454e09b46c638e987c41d019ce84d06829ba.nq.gz",
+        "blob/1233b4c6879bd572f2777813bfbb8ad1564b6d67.nq.gz",
+        "blob/4e2af846dc07897bdb195ff916e659392f0859d2.nq.gz",
+        "blob/07c0a2eb744dc4baebdb6e5a77d8c05a894bce53.nq.gz",
+        "blob/2152688aeaf29be5cfdfd828dc57b5893595ff3e.nq.gz",
+        "blob/b50c24dc36e03e5913494cedd5afc4f18c13f803.nq.gz",
+        "blob/b4cd1d6c7c66ac52c492f9722e069466106d62fb.nq.gz",
+        "blob/7c67f7030a39e44c84ba6971b65ba135f69841e7.nq.gz",
+        "blob/1329a105b4c27f2aee7633f06cdf3db443effe47.nq.gz",
+        "blob/8e249ab3dd7d13f502a55b4165eb456a0ced18b8.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/dbec6352a8f85743e432e4b26eb7b43253d07123.nq.gz",
+        "blob/29e5156048ca34d387b6e9cc9a20ab1627f9ae00.nq.gz",
+        "blob/4eb343ee2bc7f44ce0c9b57b764ec3854520db41.nq.gz",
+        "blob/4a978f7c43e1e56ff8f69ee40273a2d8a6d2d262.nq.gz",
+        "blob/41e41901326602ab1e4d6102be10c299165b59e3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
