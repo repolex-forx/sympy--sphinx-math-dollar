@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sympy/sphinx-math-dollar/commit/7739ecb1ee78a402f867c2adf5ea59ccfe5b86a8",
       "git:hexsha": "7739ecb1ee78a402f867c2adf5ea59ccfe5b86a8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sympy/sphinx-math-dollar/commit/d93308761e93e43a920098e637e7cc780bd4ef4b",
